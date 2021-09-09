@@ -8,6 +8,8 @@
 
 A fully typed and auto generated TypeScript and Node.js API library for the Walmart Marketplace API.
 
+PRE-PRODUCTION: CURRENTLY IN BETA
+
 ## Why?
 
 Because Walmart does not provide an easy way to download swagger/openapi docs to generate projects, nor do they provide
